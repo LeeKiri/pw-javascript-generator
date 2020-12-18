@@ -1,4 +1,4 @@
-# password-generator-js
+# pw-javascript-generator
 This is a password generator developed using HTML, CSS and JavaScript.
 
 ## Description
