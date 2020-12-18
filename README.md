@@ -23,10 +23,10 @@ The new password is printed to the box and I added a `Copy Password` button for 
 Project completed with 18 commits.
 
 ### URL
-https://leekiri.github.io/password-generator-js/
+https://leekiri.github.io/pw-javascript-generator/
 
 ### Github 
-https://github.com/LeeKiri/password-generator-js
+https://github.com/LeeKiri/pw-javascript-generator
 
 ### Screenshots
 ![Screenshot 2020-11-30 091455](https://user-images.githubusercontent.com/73642462/100555263-60a58e80-32ee-11eb-8f65-dbec77d17d71.png)
